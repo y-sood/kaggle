@@ -14,6 +14,5 @@ STEPS:
 
 Tasks to do :
 1) Drop fileds Embarked, Name, Ticket (Parch,Sibsp yet to decide if we have to drop these)
-2) Use fare to determine the classes 
-3) Determine if cabin contibutes significantly to survival by calcualting the percentage of people survived from each cabin 
+2) Determine if cabin contibutes significantly to survival by calcualting the percentage of people survived from each cabin 
 
